@@ -1,4 +1,3 @@
-
 words = ['class', 'dictionary', 'case', 'course', 'java', 'list', 'program', 'python', 'tuple', 'word']
 letter = str(input("Enter the letter that you want to search by: "))
 position = int(input("Give the position of that letter: "))
